@@ -1,4 +1,8 @@
+.settings/
+.classpath
+.project
+/log/
 
 /target/*
-!/target/*.jar
+# !/target/*.jar
 /java-backend-demo.iml
